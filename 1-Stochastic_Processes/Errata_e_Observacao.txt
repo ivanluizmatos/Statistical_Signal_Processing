@@ -1,0 +1,5 @@
+Errata:
+No texto da página 7 (item f), ao mostrar o cálculo da densidade espectral de potência (DEP) do ruído na saída do filtro, eu esqueci de elevar ao quadrado o módulo da resposta em frequência do filtro. Eu deveria ter multiplicado a DEP do ruído na entrada pelo *quadrado* do módulo da resposta em frequência do filtro. De toda forma, o resultado permaneceu inalterado, pois a resposta em frequência tem módulo igual a 1, no intervalo considerado.
+
+Observação:
+Nos gráficos em que apresento os sinais discretos, o eixo horizontal mostra os instantes de tempo discretos em que o sinal está definido (ou seja, esse eixo não está mostrando explicitamente os valores de n). Por conta disso, há "valores quebrados" no eixo horizontal desses gráficos, e a faixa total é de 0 a 2 segundos (uma vez que a duração dos sinais é 2 segundos, conforme o enunciado).
